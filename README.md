@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的网站
 
-You can use the [editor on GitHub](https://github.com/XXLAUG/XXLAUG.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以按[bilibili](https://space.bilibili.com/23551020)来访问我
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
